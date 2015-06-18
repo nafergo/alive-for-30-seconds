@@ -12,8 +12,8 @@ Well, just touch the arrows to make your rocket spaceship move and don't die for
 
  
 ## Installation
-1.  You must install BlenderPlayer for android. Instruction here: 
-http://wiki.blender.org/index.php/Doc:2.6/Manual/Introduction/Installing_Blender/Android
+1. You must install BlenderPlayer for android. Download Blender_08_19_12.apk from http://download.blender.org/demo/android/
+2. Run the BlenderPlayer and open the blend file.
 
 
 ## Frequently Asked Questions
